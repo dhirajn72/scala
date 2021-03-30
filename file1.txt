@@ -1,3 +1,5 @@
 this is file 1
 remote1
 remote2
+local1
+local2
